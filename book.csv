@@ -1,0 +1,21 @@
+book_id,title,language_id,mrp,publisher_id,publishing_date,volume,status
+1001,Danton,1,209,101,2022-09-01,25,Good
+1002,Safety Last!,2,239,102,2022-11-13,35,V Good
+1003,Flawless,1,210,103,2022-10-18,42,Good
+1004,Flight,3,297,104,2022-06-08,8,V Good
+1005,"Hand, The (Ruka)",2,272,105,2021-12-31,67,Good
+1006,Imagine: John Lennon,3,241,101,2022-03-27,12,V Good
+1007,Harvey,1,211,102,2022-05-22,45,V Good
+1008,Magic & Bird: A Courtship of Rivals,3,227,103,2022-03-15,78,Good
+1009,It Follows,1,300,104,2022-08-01,36,V Good
+1010,Chang: A Drama of the Wilderness,3,253,105,2022-10-06,42,V Good
+1011,Pistol Whipped,1,296,101,2022-08-25,24,Good
+1012,Black Rock,2,260,102,2022-05-29,74,V Good
+1013,La Morte Rouge,3,255,103,2022-01-26,32,V Good
+1014,Sherman's March,2,246,104,2022-04-14,7,Good
+1015,Jackass Presents: Bad Grandpa,1,267,105,2022-07-13,9,V Good
+1016,"Coluche, l'histoire d'un mec",2,204,101,2022-08-08,56,V Good
+1017,Chasing Ice,3,259,102,2022-11-05,32,Good
+1018,The Sea Vultures,1,256,103,2022-03-29,78,V Good
+1019,Phenomena (a.k.a. Creepers),2,241,104,2022-04-30,32,V Good
+1020,Bela Kiss: Prologue,2,290,105,2022-08-08,21,Good
