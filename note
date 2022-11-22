@@ -1,0 +1,3 @@
+bulk import
+
+load data local infile '/home/s5dii/Desktop/s5d66/ddl/book_return.csv' into table Book_return fields terminated by ',' enclosed by '"' lines terminated by '\n'(issue_id,actual_date_of_retrun,late_days,late_fee);
